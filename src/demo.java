@@ -1,11 +1,6 @@
 public class demo {
     static void main() {
         System.out.println("Hello world");
-        for (int i = 0; i < 10; i++) {
-            System.out.println("heloo "+ i );
-        }
-        for (int i = 0; i < 10; i++) {
-            System.out.println("heloo "+ i );
-        }
+        System.out.println("update");
     }
 }
